@@ -21,6 +21,11 @@ mkdir ../bios/mame
 mkdir ../bios/mame/samples
 mkdir ../bios/xmil
 cd
+rm ../bios/a2diskiing.zip
+rm ../bios/d2fdc.zip
+rm ../bios/gp32.zip
+rm ../bios/laser310.zip
+rm ../bios/votrax.zip
 rm ../bios/5200.rom
 rm ../bios/aa310.zip
 rm ../bios/adam.zip
