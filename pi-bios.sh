@@ -1,6 +1,6 @@
 #!/bin/bash
 ###########################################################################
-# Repositorio: Batocera_V34_Bios 2022
+# Repositorio: Batocera_V35_Bios 2022
 # Por: Raspberry Pi Buenos Aires ("https://sites.google.com/view/raspberrypibuenosaires/)
 # License: http://creativecommons.org/licenses/by-sa/4.0/
 ###########################################################################
@@ -64,8 +64,8 @@ rm ../bios/bbcmc.zip
 rm ../bios/bios_CD_E.bin
 rm ../bios/bios_CD_J.bin
 rm ../bios/bios_CD_U.bin
-rm ../bios/biosnds7.bin
-rm ../bios/biosnds9.bin
+rm ../bios/bios7.bin
+rm ../bios/bios9.bin
 rm ../bios/BS-X.bin
 rm ../bios/c52.bin
 rm ../bios/cdimono1.zip
@@ -264,6 +264,11 @@ echo "System ready for right installation"
 echo "Obteniendo Bios---Getting Bios, be patient"
 echo
 
+wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/a2diskiing.zip" -P ../bios/
+wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/d2fdc.zip" -P ../bios/
+wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/gp32.zip" -P ../bios/
+wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/laser310.zip" -P ../bios/
+wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/votrax.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/bios/5200.rom" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/bios/aa310.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/bios/adam_ddp.zip" -P ../bios/
