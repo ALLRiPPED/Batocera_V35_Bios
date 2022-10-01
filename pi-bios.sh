@@ -264,7 +264,7 @@ echo "System ready for right installation"
 echo "Obteniendo Bios---Getting Bios, be patient"
 echo
 
-wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/a2diskiing.zip" -P ../bios/
+wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/main/a2diskiing.zip" -P ../bios/choco.zip
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/d2fdc.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/gp32.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/laser310.zip" -P ../bios/
