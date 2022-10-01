@@ -1,6 +1,6 @@
 #!/bin/bash
 ###########################################################################
-# Repositorio: Batocera_V34_Bios 2022
+# Repositorio: Batocera_V35_Bios 2022
 # Por: Raspberry Pi Buenos Aires ("https://sites.google.com/view/raspberrypibuenosaires/)
 # License: http://creativecommons.org/licenses/by-sa/4.0/
 ###########################################################################
@@ -33,17 +33,22 @@ rm ../bios/PS3UPDAT.PUP
 rm ../bios/ROM2.BIN
 rm ../bios/SCPH30004R.MEC
 rm ../bios/SCPH30004R.bin
-rm ../bios/biosdsi7.bin
-rm ../bios/biosdsi9.bin
-rm ../bios/dsfirmware.bin
-rm ../bios/dsifirmware.bin
-rm ../bios/dsinand.bin
+rm ../bios/dsi_bios7.bin
+rm ../bios/dsi_bios9.bin
+rm ../bios/firmware.bin
+rm ../bios/dsi_firmware.bin
+rm ../bios/dsi_nand.bin
 rm ../bios/mcpx_1.0.bin
 rm ../bios/rom1.bin
 rm ../bios/scph39001.MEC
 rm ../bios/scph39001.bin
 rm ../bios/wsh57/scripten.exe
 echo
+rm ../bios/a2diskiing.zip
+rm ../bios/d2fdc.zip
+rm ../bios/gp32.zip
+rm ../bios/laser310.zip
+rm ../bios/votrax.zip
 rm ../bios/5200.rom
 rm ../bios/aa310.zip
 rm ../bios/adam.zip
@@ -303,6 +308,11 @@ echo
 
 echo "This ones go more fast but patience"
 
+wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/a2diskiing.zip" -P ../bios/
+wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/d2fdc.zip" -P ../bios/
+wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/gp32.zip" -P ../bios/
+wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/laser310.zip" -P ../bios/
+wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/votrax.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/bios/5200.rom" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/bios/aa310.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V34_Bios/master/bios/adam_ddp.zip" -P ../bios/
