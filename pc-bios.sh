@@ -561,10 +561,14 @@ echo
 echo "xmil"
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/xmil/IPLROM.X1" -P ../bios/xmil/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/xmil/iplrom.x1t" -P ../bios/xmil/
+
 echo
+
 sleep 1
 echo "Al fin, Copiadas todas las BIOS--Cool we finish"
 echo
+
+
 echo "Reinicia tu Raspberry Pi y Disfruta--Reboot and Enjoy"
 echo "Saludos desde Raspberry Pi Buenos Aires"
 echo
@@ -578,6 +582,7 @@ echo "1.."
 sleep 4
 echo
 echo "Que esperas, reinicia de una vez"
-echo "What are you waiting for, reboot"
+echo "What are you waiting, reboot"
+sleep 7
 reboot
 exit 0
