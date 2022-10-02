@@ -51,6 +51,6 @@ curl -sSL https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master
 <p align="center">
 Invite a Coffee
 <a href="https://www.paypal.com/paypalme/RaspberryPiBsAs">
-<img src="https://lh5.googleusercontent.com/8r" alt="Invite a Coffee" width="400" height="500">
+<img src="https://raw.githubusercontent.com/Luciano2018/MiPiTV/master/Paypal_2014_logo.png" alt="Invite a Coffee" width="400" height="500">
 </a>
 </p>
