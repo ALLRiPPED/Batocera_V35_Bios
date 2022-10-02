@@ -47,10 +47,10 @@ curl -sSL https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master
 ```
 # Enjoy!!! --- A disfrutar!!!
 
+<h1 align="center"> Invite a Coffee</h1>
 </p>
 <p align="center">
-# Invite a Coffee
 <a href="https://www.paypal.com/paypalme/RaspberryPiBsAs">
-<img src="https://raw.githubusercontent.com/Luciano2018/MiPiTV/master/Paypal_2014_logo.png" alt="Invite a Coffee" width="100" height="50">
+<img src="https://raw.githubusercontent.com/Luciano2018/MiPiTV/master/Paypal_2014_logo.png" alt="Invite a Coffee" width="40" height="50">
 </a>
 </p>
