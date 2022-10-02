@@ -269,8 +269,8 @@ wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/gp32.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/laser310.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/votrax.zip" -P ../bios/
-wget -cO "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/5200.rom" -P ../bios/
-wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/aa310.zip" -P ../bios/afafa.zip
+wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/5200.rom" -P ../bios/
+wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/aa310.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/adam_ddp.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/adam_fdc.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/adam_kb.zip" -P ../bios/
