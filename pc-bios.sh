@@ -578,7 +578,6 @@ echo "1.."
 sleep 4
 echo
 echo "Que esperas, reinicia de una vez"
-echo "What are you waiting, reboot"
-sleep 7
+echo "What are you waiting for, reboot"
 reboot
 exit 0
