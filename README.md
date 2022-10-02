@@ -46,3 +46,11 @@ Type:
 curl -sSL https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/pc-bios.sh | bash
 ```
 # Enjoy!!! --- A disfrutar!!!
+
+</p>
+<p align="center">
+Invite a Coffee
+<a href="https://www.paypal.com/paypalme/RaspberryPiBsAs">
+<img src="https://lh5.googleusercontent.com/8r27iJVL9cMFy8ccSNZMU5Ouc1ksrWmfzGtoIE3b1T1CdvhjQA-_JBzt3ZiYtBHxoBALTxkuh4bUUhy-g1DCifvaL7Fr8uNx67kPQVPEEQ17e6um=w1280" alt="Invite a Coffee" width="400" height="500">
+</a>
+</p>
