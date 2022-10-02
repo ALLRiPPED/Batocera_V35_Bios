@@ -175,7 +175,7 @@ rm ../bios/panafz1.bin
 rm ../bios/panafz10.bin
 rm ../bios/pcfx.rom
 rm ../bios/psxonpsp660.bin
-rm ../qsound.zip
+rm ../bios/qsound.zip
 rm ../bios/ROM1
 rm ../bios/saa5050.zip
 rm ../bios/saturn_bios.bin
