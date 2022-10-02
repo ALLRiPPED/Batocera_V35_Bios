@@ -10,7 +10,7 @@ echo "Getting Read and Write system"
 mount -o remount,rw /
 mount -o remount,rw /boot
 echo
-
+echo
 echo "Limpiando las bios basura que te descargaste de otro lado o las mismas si se te corto internet"
 echo "Cleaning the garbage bios downloaded from other sites or from this site but if you internet shutdown in the process"
 cd
@@ -260,10 +260,10 @@ rm ../bios/xmil/iplrom.x1t
 echo
 echo "Sistema listo para su correcta instalacion"
 echo "System ready for right installation"
-
+echo
 echo "Obteniendo Bios---Getting Bios, be patient"
 echo
-
+echo
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/a2diskiing.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/d2fdc.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/gp32.zip" -P ../bios/
@@ -464,27 +464,27 @@ wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/ym2608.zip" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/zcdata.dat" -P ../bios/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/zcsf.sf2" -P ../bios/
-
+echo
 echo "Atomiswave"
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/dc/awbios.zip" -P ../bios/dc/
-
+echo
 echo "Naomi"
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/dc/naomi.zip" -P ../bios/dc/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/dc/naomi2.zip" -P ../bios/dc/
-
+echo
 echo "FM Towns"
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/fmtowns/FMT_DIC.ROM" -P ../bios/fmtowns/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/fmtowns/FMT_DOS.ROM" -P ../bios/fmtowns/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/fmtowns/FMT_F20.ROM" -P ../bios/fmtowns/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/fmtowns/FMT_FNT.ROM" -P ../bios/fmtowns/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/fmtowns/FMT_SYS.ROM" -P ../bios/fmtowns/
-
+echo
 echo "Keropi"
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/keropi/cgrom.dat" -P ../bios/keropi/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/keropi/iplrom.dat" -P ../bios/keropi/
 echo "BBC"
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/mame/samples/bbc.zip" -P ../bios/mame/samples/
-
+echo
 echo "Neo Geo CD"
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/neocd/front-sp1.bin" -P ../bios/neocd/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/neocd/neocd.bin" -P ../bios/neocd/
@@ -496,14 +496,14 @@ wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/neocd/neocd_z.rom" -P ../bios/neocd/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/neocd/top-sp1.bin" -P ../bios/neocd/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/neocd/uni-bioscd.rom" -P ../bios/neocd/
-
+echo
 echo "np2kai"
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/np2kai/BIOS.ROM" -P ../bios/np2kai/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/np2kai/font.bmp" -P ../bios/np2kai/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/np2kai/FONT.ROM" -P ../bios/np2kai/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/np2kai/ITF.ROM" -P ../bios/np2kai/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/np2kai/SOUND.ROM" -P ../bios/np2kai/
-
+echo
 echo "quasi88"
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/quasi88/N88EXT0.ROM" -P ../bios/quasi88/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/quasi88/N88EXT1.ROM" -P ../bios/quasi88/
@@ -512,11 +512,11 @@ wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/quasi88/N88N.ROM" -P ../bios/quasi88/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/quasi88/N88.ROM" -P ../bios/quasi88/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/quasi88/N88SUB.ROM" -P ../bios/quasi88/
-
+echo
 echo "xmil"
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/xmil/IPLROM.X1" -P ../bios/xmil/
 wget -c "https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master/bios/xmil/iplrom.x1t" -P ../bios/xmil/
-
+echo
 echo
 sleep 1
 echo "Al fin, Copiadas todas las BIOS--Cool we finish"
@@ -534,7 +534,7 @@ echo "1.."
 sleep 4
 echo
 echo "Que esperas, reinicia de una vez"
-echo "What are you waiting, reboot"
+echo "What are you waiting for, reboot"
 sleep 7
 reboot
 exit 0
