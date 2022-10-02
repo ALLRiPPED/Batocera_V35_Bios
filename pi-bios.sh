@@ -152,7 +152,7 @@ rm ../bios/panafz1.bin
 rm ../bios/panafz10.bin
 rm ../bios/pcfx.rom
 rm ../bios/psxonpsp660.bin
-rm ../qsound.zip
+rm ../bios/qsound.zip
 rm ../bios/ROM1
 rm ../bios/saa5050.zip
 rm ../bios/saturn_bios.bin
@@ -254,7 +254,7 @@ rm ../bios/quasi88/N88EXT2.ROM
 rm ../bios/quasi88/N88EXT3.ROM
 rm ../bios/quasi88/N88N.ROM
 rm ../bios/quasi88/N88SUB.ROM
-rm ../bios/wsh57/
+rm ../bios/wsh57/scripten.exe
 rm ../bios/xmil/IPLROM.X1
 rm ../bios/xmil/iplrom.x1t
 echo
