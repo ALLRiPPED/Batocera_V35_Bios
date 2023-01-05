@@ -9,6 +9,8 @@ The right Bios for Batocera V35, without unnecessary files.
 <img src="https://raw.githubusercontent.com/Luciano2018/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
 </p>
 
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/lucianoraspberrypi)
+
 # Easy Install -- Instalación fácil para Raspberry Pi:
 
 # Login through SSH -- Nos conectamos por SSH
@@ -55,4 +57,3 @@ curl -sSL https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master
 </a>
 </p>
 
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/raspberrypibsas)
