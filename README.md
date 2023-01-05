@@ -55,4 +55,4 @@ curl -sSL https://raw.githubusercontent.com/Luciano2018/Batocera_V35_Bios/master
 </a>
 </p>
 
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/raspberrypibsas)
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/raspberrypibsas)
